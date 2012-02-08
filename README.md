@@ -2,8 +2,11 @@
 =======================================================
 Pollenizer 2012-02-09
 
+### Prerequisites
+
 This exercise will be run completely from the command line. Requirements are a
 working PHP-CLI executable and working MySQL database.
+
 
 Ensure your database.php is appropriately configured. You can test with:
 
@@ -13,7 +16,8 @@ Should return the following on successful configuration:
 
 	Your database does not have any tables.
 
-Schema commands which will be used:
+Schema commands
+---------------
 
 * `generate` schema file
 	* -f param
@@ -21,5 +25,6 @@ Schema commands which will be used:
 * `update` alter tables based on schema file
 
 Caveats
+-------
 
 * Column renaming
