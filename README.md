@@ -14,10 +14,12 @@ Should return the following on successful configuration:
 	Your database does not have any tables.
 
 Schema commands which will be used:
+
 * `generate` schema file
 	* -f param
 * `create` and dump tables based on schema file
 * `update` alter tables based on schema file
 
 Caveats
+
 * Column renaming
