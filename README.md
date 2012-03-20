@@ -2,6 +2,10 @@
 =======================================================
 Pollenizer 2012-02-09
 
+### Screencast
+
+[http://blip.tv/simonmales/cakephp-schema-management-and-migrations-brown-bag-5946713]
+
 ### Prerequisites
 
 This exercise will be run completely from the command line. Requirements are a
